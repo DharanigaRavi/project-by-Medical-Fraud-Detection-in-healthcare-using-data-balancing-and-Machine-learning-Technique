@@ -1,0 +1,4 @@
+gender,primary_diagnosis,procedure_type,claim_day,patient_age,claim_amount,num_procedures,hospital_stay_days,cost_feature_1,util_feature_2,usage_score,billing_variance,frequency_of_visits,anomaly_score,hospital_id,provider_id,claim_month,prediction,non_fraud_probability,fraud_probability,prediction_label
+0,1,2,5,32,4500,2,2,0.12,0.08,0.15,0.03,0.1,0.05,3,2,4,0,0.85,0.15,Non-Fraud
+1,3,1,6,58,18500,5,12,0.92,0.87,0.95,0.78,0.92,0.98,8,9,11,0,0.67,0.33,Non-Fraud
+0,2,1,10,21,22000,6,25,0.62,0.67,0.9,0.89,0.67,0.78,10,8,6,0,0.55,0.22,Non-Fraud
