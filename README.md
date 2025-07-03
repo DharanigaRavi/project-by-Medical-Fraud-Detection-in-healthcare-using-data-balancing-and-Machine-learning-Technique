@@ -1,0 +1,2 @@
+# project-by-Medical-Fraud-Detection-in-healthcare-using-data-balancing-and-Machine-learning-Technique
+Medical fraud in healthcare systems is a persistent issue, leading to significant  financial losses and undermining trust in healthcare services. Detecting  fraudulent claims efficiently is a critical challenge, especially due to the  imbalanced nature ofThe system applies a  variety of data balancing 
